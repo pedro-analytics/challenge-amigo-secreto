@@ -54,7 +54,7 @@ Para executar este projeto localmente, siga os passos abaixo:
 
 1.  **Clone o repositório (ou baixe os arquivos):**
     ```bash
-    git clone [https://github.com/seu-usuario/projeto-amigo-secreto.git](https://github.com/seu-usuario/projeto-amigo-secreto.git)
+    git clone https://github.com/pedro-analytics/challenge-amigo-secreto/tree/main
     ```
 2.  **Navegue até o diretório do projeto:**
     ```bash
